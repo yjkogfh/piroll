@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="300" viewBox="0 0 342 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ddd;
+      }
+    </style>
+  </defs>
+  <rect id="your_img_here" data-name="your img here" class="cls-1" width="342" height="300"/>
+</svg>
